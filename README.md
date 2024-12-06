@@ -35,14 +35,8 @@ Avant de commencer, assurez-vous d'avoir Python 3.7+ et les bibliothèques suiva
 
 1. **Clonez ce dépôt :**
     ```bash
-    git clone https://github.com/votre-username/chatbot-ia.git
-    cd chatbot-ia
-    ```
-
-2. **Installez les dépendances :**
-    Nous vous recommandons d'utiliser un environnement virtuel (venv ou conda) pour éviter les conflits de dépendances.
-    ```bash
-    pip install -r requirements.txt
+    git clone https://github.com/fandrianarisataGithub/chatbot-iron.git
+    cd chatbot-iron
     ```
 
 ### Dépendances
@@ -81,8 +75,8 @@ Une fois l'installation terminée, vous pouvez démarrer une session pour intera
 2. **Testez le chatbot avec un prompt :**
 
     Vous pouvez tester différents prompts pour voir comment le modèle répond à différentes requêtes. Par exemple :
-    - `"What's the weather like today?"`
-    - `"Tell me a joke."`
+    - `"Support our cause and make a difference today."`
+    - `"What is your working domain ?"`
 
 ### 2. **Entraîner le modèle**
 
